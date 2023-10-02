@@ -2,7 +2,7 @@
 let checkAnwserButton = document.querySelector('#control_button_2')
 let reloadButton = document.querySelector('#control_button_3')
 let nextButton = document.querySelector('#control_button_4')
-const anwserArr = ['some1', 'some2', 'some3', 'some4', 'some5'];
+const anwserArr = ['some1', 'some2', 'some3', 'some4',];
 
 function reloadPage(){
     window.location.reload();
